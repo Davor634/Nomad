@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "374901391102",
+    "firebase_url": "https://nomad-70be4-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "nomad-70be4",
+    "storage_bucket": "nomad-70be4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:374901391102:android:797b0adcc01a6ee5d8afaf",
+        "android_client_info": {
+          "package_name": "hr.ferit.davormaljkovic.nomad"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLL4DPUgi86bdNVr0a159lQtOWRpyqOF4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
