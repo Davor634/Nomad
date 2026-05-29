@@ -1,3 +1,3 @@
-# Nomad-ORWIMA
+# Nomad
 ## Davor Maljković
 ### Android Aplikacija
